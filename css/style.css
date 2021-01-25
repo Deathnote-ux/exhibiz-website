@@ -1,0 +1,24 @@
+
+/* landing-image */
+.bg-img {
+    background-image: url('../img/8.jpg');
+    height: 700px;
+}
+
+
+.navbar-ul a {
+    font-size: 13px;
+    font-weight: 600;
+}
+
+#pink-dot {
+    border-radius: 100%;
+    background-color: #d63384;
+    width: 10%;
+    padding: 3px 3px;
+    margin-left: 10px;
+}
+
+.position {
+    position: fixed;
+}
